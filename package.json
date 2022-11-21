@@ -27,5 +27,10 @@
     "devDependencies": {
         "@types/node": "^18.11.9",
         "typescript": "^4.9.3"
+    },
+    "homepage": "https://github.com/sachinh35/insomnia-plugin-aws-profile-creds",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sachinh35/insomnia-plugin-aws-profile-creds"
     }
 }
