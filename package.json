@@ -1,0 +1,32 @@
+{
+    "name": "insomnia-plugin-aws-profile-creds",
+    "version": "1.0.0",
+    "private": true,
+    "insomnia": {
+        "name": "aws-profile-creds",
+        "description": "Get AWS credentials from any profile present in your ~/.aws/credentials file."
+    },
+    "main": "main.js",
+    "scripts": {
+        "tsc": "tsc"
+    },
+    "keywords": [
+        "insomnia",
+        "aws",
+        "profile",
+        "creds",
+        "iam"
+    ],
+    "license": "MIT",
+    "author": {
+        "name": "Sachin Hulyalkar",
+        "email": "sachin.h35@gmail.com"
+    },
+    "dependencies": {
+        "aws-sdk": "^2.1258.0"
+    },
+    "devDependencies": {
+        "@types/node": "^18.11.9",
+        "typescript": "^4.9.3"
+    }
+}
