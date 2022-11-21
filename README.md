@@ -27,4 +27,4 @@ Instructions if you want to make changes to the plugin and test it:
 
 ### Acknowledgements
 
-This plugin is a slight modification of the awsiam insomnia plugin (link [here][(](https://github.com/dankelleher/insomnia-plugin-aws-iam))) . The `awsiam` plugin allows you to read only from the `default` profile whereas this plugin can read from any profile. 
+This plugin is a slight modification of the awsiam insomnia plugin (link [here](https://github.com/dankelleher/insomnia-plugin-aws-iam)). The `awsiam` plugin allows you to read only from the `default` profile whereas this plugin can read from any profile. 
