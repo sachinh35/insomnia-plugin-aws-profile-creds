@@ -1,6 +1,6 @@
 {
     "name": "insomnia-plugin-aws-profile-creds",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "insomnia": {
         "name": "aws-profile-creds",
         "description": "Get AWS credentials from any profile present in your ~/.aws/credentials file."
